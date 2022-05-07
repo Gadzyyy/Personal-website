@@ -1,0 +1,97 @@
+body {
+    font-family:                    MuseoSans, tahoma, sans-serif;
+    font-size:                      small;
+    line-height:                    0.2;
+
+    background-color:               #eee;
+    box-shadow:                     rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border:                         1px solid black;
+    border-radius:                  10px;
+
+    width:                          55%;
+    margin:                         auto;
+}
+
+h1, h2, p {
+    font-size:                      110%;
+    padding-left:                   20px;
+}
+
+h1 {
+    font-size:                      200%;
+    font-weight:                    normal;
+    margin-right:                   100px;
+    margin-bottom:                  10px;
+    padding-top:                    10px;
+}
+
+h2 {
+    font-size:                      150%;
+    font-weight:                    normal;
+}
+
+a {
+    color:                          #822;
+    text-decoration:                none;
+}
+
+nav {
+    height:                         80px;    
+}
+
+#intro {
+    color:                          #525E75;
+    margin:                         30px 0;
+    border-top:                     1px solid #525E75;
+}
+
+#nav-bar {
+    color:                          #3A3845;
+    font-size:                      90%;
+    line-height:                    5px;
+
+    position:                       absolute;
+    top:                            0;
+    right:                          360px;
+    width:                          40%;
+    padding-top:                    10px;
+}
+
+.section-headers {
+    background-color:               lightblue;
+    border-top:                     1px solid black;
+    border-bottom:                  1px solid black;
+    height:                         45px;
+    margin:                         0;
+    margin:                         20px 0;
+}
+
+#section-header-1 {
+    margin-top:                      0;
+}
+
+article {
+    padding:                        0px auto;
+}
+
+#middle-section-header h2 {
+    color:                          rgb(60, 57, 57);
+    font-size:                      140%;
+    font-weight:                    normal;
+}
+
+.paragraphs {
+    padding-bottom:                 10px;
+    padding-left:                   35px;
+}
+
+#bottom-container {
+    padding-bottom:                 60px;
+}
+
+img {
+    position: absolute;
+    right:                          365px;
+    margin-top:                     65px;
+    border:                         1px solid black;
+}
